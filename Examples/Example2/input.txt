@@ -1,0 +1,7 @@
+O,O,O,O,O,G
+O,O,O,O,O,O
+O,O,O,O,H,O
+O,O,X,O,O,O
+O,O,O,O,H,O
+O,O,O,O,O,O
+O,O,O,O,O,S

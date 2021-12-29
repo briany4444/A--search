@@ -1,0 +1,4 @@
+S,O,O,X,X
+O,X,O,X,G
+O,X,O,X,O
+H,O,O,O,O
